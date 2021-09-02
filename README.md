@@ -1,5 +1,5 @@
 Nice to meet you, I’m Vivian! <br><br>
-📖 <b>status:</b> finding my footing in university<br>
+📖 <b>status:</b> trying to figure out how GitHub works...<br>
 🎵 <b>current obessesion:</b> making spotify playlists + notion pages for every little thing<br>
 📨 <b>Instagram:</b> @yrv.g   
 
