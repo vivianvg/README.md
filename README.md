@@ -1,7 +1,7 @@
 Nice to meet you, I’m Vivian! <br><br>
-📚 <b>studying:</b> Computing Financial Management 
+📚 <b>studying:</b> Computing Financial Management <br>
 📖 <b>status:</b> learning how GitHub works...<br>
-☎️ <b>socials:</b> see xyvv.github.io 
+☎️ <b>socials:</b> see [here](xyvv.github.io) 
 
 <!---
 yrvg/yrvg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
