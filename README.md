@@ -1,8 +1,7 @@
 Nice to meet you, I’m Vivian! <br><br>
-📖 <b>status:</b> trying to figure out how GitHub works...<br>
-🎵 <b>current obessesion:</b> making spotify playlists + notion pages for every little thing<br>
-📨 <b>Instagram:</b> @xy.v.v  (art account)
-💬 <b>Twitter:</b> @xyvvo 
+📚 <b>studying:</b> Computing Financial Management 
+📖 <b>status:</b> learning how GitHub works...<br>
+☎️ <b>socials:</b> see xyvv.github.io 
 
 <!---
 yrvg/yrvg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
