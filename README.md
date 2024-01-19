@@ -1,7 +1,7 @@
 Nice to meet you, I’m Vivian! <br><br>
 📚 <b>studying:</b> Computing Financial Management <br>
-📖 <b>status:</b> in my 2B term...<br>
-☎️ <b>social(s):</b> <a href="https://www.instagram.com/xy.v.v/">art instagram</a>, <a href="https://www.linkedin.com/in/vivianvg/">linkedin</a>
+📖 <b>status:</b> Currently in my 3A academic term! Looking for Summer 2024 internship opportunities... <br>
+☎️ <b>social(s):</b> <a href="https://www.linkedin.com/in/vivianvg/">linkedin</a>, <a href="https://www.instagram.com/xy.v.v/">art instagram</a>
 
 <!---
 yrvg/yrvg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
