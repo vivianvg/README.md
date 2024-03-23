@@ -1,6 +1,6 @@
 Nice to meet you, I’m Vivian! <br><br>
 📚 <b>studying:</b> Computing Financial Management <br>
-📖 <b>status:</b> Currently in my 3A academic term! Looking for Summer 2024 internship opportunities... <br>
+📖 <b>status:</b> Currently in my 3A academic term!<br>
 ☎️ <b>social(s):</b> <a href="https://www.linkedin.com/in/vivianvg/">LinkedIn</a>, [Website](https://vivianyrguo.com/)
 
 <!---
